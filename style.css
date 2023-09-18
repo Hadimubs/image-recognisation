@@ -1,0 +1,17 @@
+.heading{
+width: 80%;
+font-size:22px ;
+}
+body{
+color:white ;
+background:black;
+
+}
+#b,#k,#z{
+color:yellow;
+}
+#camera{
+border:2px dashed orange;
+width: 350px; 
+height:300px;
+}
